@@ -4,7 +4,7 @@ public class sample1 {
 
 	public static void main(String[] args) {
 		
-		int num[]= {120,24,71,10,59}; //output :3 6 
+		int num[]= {120,24,71,10,59}; //output :3 6 8 1 14
 		int len=num.length;
 		int[] result=new int[len];
 		int data;
